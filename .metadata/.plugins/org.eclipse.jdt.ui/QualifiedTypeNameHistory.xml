@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.xper.acq.vo.DigitalChannel.EdgeType"/>
+<fullyQualifiedTypeName name="org.xper.acq.vo.DigitalChannel"/>
+<fullyQualifiedTypeName name="java.lang.Deprecated"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.Short"/>
+<fullyQualifiedTypeName name="org.xper.acq.counter.TrialStageData"/>
+<fullyQualifiedTypeName name="org.xper.db.vo.AcqDataEntry"/>
+<fullyQualifiedTypeName name="org.xper.ManualTest"/>
+</qualifiedTypeNameHistroy>

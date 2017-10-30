@@ -1,0 +1,4 @@
+
+data <- read.table("/Users/john/xper-src/xper/unit_test/org/xper/acq/counter/acq_data_2014_08_13_0001.txt");
+
+marker1 <- data.subset(data, 
